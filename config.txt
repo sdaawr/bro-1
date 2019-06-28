@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=1
-game=play
-stayinchannel=true
+owner=419550777468780546
+prefix=d
+game=Love Server Online Games 
+stayinchannel=false
 songinstatus=false
-token=NTMyOTM4ODQ4ODA4ODYxNzE5.DxjzfA.Nss_r9BRZ1VEpyeHgketTem5q_o
+token=NDU4OTgyOTU3OTQ5MTI0NjM0.XRXMUw.DIij3mwo80BF4UOR5Nq1fmYdup8
