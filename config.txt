@@ -1,6 +1,0 @@
-owner=419550777468780546
-prefix=d
-game=Love Server Online Games 
-stayinchannel=false
-songinstatus=false
-token=NDU4OTgyOTU3OTQ5MTI0NjM0.XRXMUw.DIij3mwo80BF4UOR5Nq1fmYdup8
